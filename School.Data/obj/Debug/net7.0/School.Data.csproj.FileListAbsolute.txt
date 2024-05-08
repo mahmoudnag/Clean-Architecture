@@ -1,0 +1,11 @@
+E:\Clean Architecture\School P\School\School.Data\bin\Debug\net7.0\School.Data.deps.json
+E:\Clean Architecture\School P\School\School.Data\bin\Debug\net7.0\School.Data.dll
+E:\Clean Architecture\School P\School\School.Data\bin\Debug\net7.0\School.Data.pdb
+E:\Clean Architecture\School P\School\School.Data\obj\Debug\net7.0\School.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clean Architecture\School P\School\School.Data\obj\Debug\net7.0\School.Data.AssemblyInfoInputs.cache
+E:\Clean Architecture\School P\School\School.Data\obj\Debug\net7.0\School.Data.AssemblyInfo.cs
+E:\Clean Architecture\School P\School\School.Data\obj\Debug\net7.0\School.Data.csproj.CoreCompileInputs.cache
+E:\Clean Architecture\School P\School\School.Data\obj\Debug\net7.0\School.Data.dll
+E:\Clean Architecture\School P\School\School.Data\obj\Debug\net7.0\refint\School.Data.dll
+E:\Clean Architecture\School P\School\School.Data\obj\Debug\net7.0\School.Data.pdb
+E:\Clean Architecture\School P\School\School.Data\obj\Debug\net7.0\ref\School.Data.dll

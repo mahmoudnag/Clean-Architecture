@@ -1,0 +1,17 @@
+E:\Clean Architecture\School P\School\School.Infastructure\bin\Debug\net7.0\School.Infastructure.deps.json
+E:\Clean Architecture\School P\School\School.Infastructure\bin\Debug\net7.0\School.Infastructure.runtimeconfig.json
+E:\Clean Architecture\School P\School\School.Infastructure\bin\Debug\net7.0\School.Infastructure.dll
+E:\Clean Architecture\School P\School\School.Infastructure\bin\Debug\net7.0\School.Infastructure.pdb
+E:\Clean Architecture\School P\School\School.Infastructure\bin\Debug\net7.0\School.Data.dll
+E:\Clean Architecture\School P\School\School.Infastructure\bin\Debug\net7.0\School.Data.pdb
+E:\Clean Architecture\School P\School\School.Infastructure\obj\Debug\net7.0\School.Infastructure.csproj.AssemblyReference.cache
+E:\Clean Architecture\School P\School\School.Infastructure\obj\Debug\net7.0\School.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clean Architecture\School P\School\School.Infastructure\obj\Debug\net7.0\School.Infastructure.AssemblyInfoInputs.cache
+E:\Clean Architecture\School P\School\School.Infastructure\obj\Debug\net7.0\School.Infastructure.AssemblyInfo.cs
+E:\Clean Architecture\School P\School\School.Infastructure\obj\Debug\net7.0\School.Infastructure.csproj.CoreCompileInputs.cache
+E:\Clean Architecture\School P\School\School.Infastructure\obj\Debug\net7.0\School.I.3774B79F.Up2Date
+E:\Clean Architecture\School P\School\School.Infastructure\obj\Debug\net7.0\School.Infastructure.dll
+E:\Clean Architecture\School P\School\School.Infastructure\obj\Debug\net7.0\refint\School.Infastructure.dll
+E:\Clean Architecture\School P\School\School.Infastructure\obj\Debug\net7.0\School.Infastructure.pdb
+E:\Clean Architecture\School P\School\School.Infastructure\obj\Debug\net7.0\School.Infastructure.genruntimeconfig.cache
+E:\Clean Architecture\School P\School\School.Infastructure\obj\Debug\net7.0\ref\School.Infastructure.dll
